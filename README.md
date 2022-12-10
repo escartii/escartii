@@ -2,6 +2,8 @@
 
 - Alvaro Escarti, 22 años :)
 
+<img src="result.gif">
+
 - Mis redes sociales: 
 <p align="center">
     <a href="https://twitter.com/escartii" target="_blank">
