@@ -1,4 +1,4 @@
-<div id="badges" align="center>
+<div id="badges" align="center">
 ![Twitter Follow](https://img.shields.io/twitter/follow/escartii?color=green&logo=twitter&style=for-the-badge)
 
 <!--
