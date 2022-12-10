@@ -7,7 +7,8 @@
 </p>
 
 
-- **Alvaro Escartí, 22 años **
+
+- Alvaro Escartí, 22 años 
 
 
 ### Lenguajes que estoy aprendiendo: 
@@ -17,6 +18,9 @@
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css)
 [![PoweShell Badge](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
+
+## Mi lugar de trabajo 
+<img src="IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
