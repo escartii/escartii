@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/escartii" target="_blank">
-        <img src="https://readme-typing-svg.herokuapp.com/?size=15&width=300&lines=int%20ma>
+        ![Twitter Follow](https://img.shields.io/twitter/follow/escartii?color=blue&logo=twitter&style=for-the-badge)
     </a>
 
 </p>
