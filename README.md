@@ -1,4 +1,5 @@
-### Hi there 👋
+<div id="badges" align="center>
+![Twitter Follow](https://img.shields.io/twitter/follow/escartii?color=green&logo=twitter&style=for-the-badge)
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
