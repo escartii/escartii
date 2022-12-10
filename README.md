@@ -27,7 +27,9 @@
 
 ## Idiomas que sé y que estoy aprendiendo
 
-<img src="fra.png" alt="idioma" width="100"/>
+<img src="español.png" alt="idioma" width="75"/>
+<img src="ingles.png" alt="idioma" width="75"/>
+<img src="frances.png" alt="idioma" width="75"/>
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
