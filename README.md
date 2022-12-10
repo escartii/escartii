@@ -4,6 +4,8 @@
 
 <img src="result.gif">
 
+- 300 pulsaciones por minuto ^^
+
 - Mis redes sociales: 
 <p align="center">
     <a href="https://twitter.com/escartii" target="_blank">
