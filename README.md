@@ -1,6 +1,7 @@
 <p align="center">
     <a href="https://github.com/escartii" target="_blank">
-        ![Twitter Follow](https://img.shields.io/twitter/follow/escartii?color=blue&logo=twitter&style=for-the-badge)
+        https://img.shields.io/twitter/follow/escartii?color=blue&logo=twitter&style=for-the-badge
+	alt="Twitter Badge" />
     </a>
 
 </p>
