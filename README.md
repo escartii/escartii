@@ -33,7 +33,9 @@
 
 <img src="agua.jpg" alt="imagen-escritorio" width="75"/> <img src="cafe.png" alt="imagen-escritorio" width="75"/>
 
+## Deporte favorito: Padel
 
+<img src="counter_viper.png" alt="imagen-escritorio" width="75"/>
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
