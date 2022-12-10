@@ -29,6 +29,11 @@
 
 <img src="español.png" alt="idioma" width="75"/> <img src="ingles.png" alt="idioma" width="75"/> <img src="fra.png" alt="idioma" width="75"/>
 
+## Bebidas favoritas
+
+<img src="agua.jpg" alt="imagen-escritorio" width="75"/> <img src="cafe.png" alt="imagen-escritorio" width="75"/>
+
+
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
