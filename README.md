@@ -1,5 +1,5 @@
-<div id="badges" align="center">
-![Twitter Follow](https://img.shields.io/twitter/follow/escartii?color=green&logo=twitter&style=for-the-badge)
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/escartii?color=blue&logo=twitter&style=for-the-badge">
+
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
