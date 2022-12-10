@@ -1,4 +1,7 @@
 
+
+- Alvaro Escarti, 22 años :)
+
 - Mis redes sociales: 
 <p align="center">
     <a href="https://twitter.com/escartii" target="_blank">
@@ -7,10 +10,6 @@
     </a>
 
 </p>
-
-
-
-- Alvaro Escartí, 22 años 
 
 
 ### Lenguajes que estoy aprendiendo: 
@@ -24,6 +23,11 @@
 
 ## Mi lugar de trabajo 
 <img src="IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
+
+
+## Idiomas que sé y que estoy aprendiendo
+
+<img src="fra.png" alt="idioma" width="100"/>
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
