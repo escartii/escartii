@@ -57,6 +57,7 @@ if ( $args.Count -eq 2 -or $args.Count -eq 3 ){
 
 }
 
+#test
 
  #Compruebo que existe la RUTA indicada en el parametro 3
 if ( $Parameter2 -eq "test" -and $Parameter3.StartsWith(".\") -or $Parameter3.StartsWith("..\") -or $Parameter3.StartsWith("C:\")) {
