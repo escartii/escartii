@@ -1,6 +1,7 @@
 
 
-- Alvaro Escarti, 22 años :)
+- (っ◔◡◔)っ【A】【l】【v】【a】【r】【o】 【E】【s】【c】【a】【r】【t】【i】 ゝ桜翁） 
+- 22 años :)
 
 <img src="result.gif">
 
