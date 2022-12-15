@@ -1,22 +1,26 @@
 #!/bin/bash
 
-#Alvaro Escarti
+#Alvaro Escarti :))
 
-#compruebo que el script se ejecuta como sudo
 if [ $(id -u) -ne 0 ]; then
     echo "este script debe ejecutarse como sudo"
     exit 1
 fi
 
-
 #creo un array para los usuarios
-usuarios=(piccolo clarinet horn trunk fiddle viola cello doublebass battery xylophone conductor)
+usuarios=(piccolo clarinet horn trunk fiddle viola cello doublebass battery xylophone conductor spectator)
 
 #creo un array para grupos
-grupos=(strings woodwind metalwind percussion conductor orchestra)
+grupos=(strings woodwind metalwind percussion conductor orchestra spectator)
+
 
 for crearUsuarios in ${usuarios[@]}; do
-    useradd $crearUsuarios &> /dev/null
+    #para utilizar mkpasswd debes instalar whois
+    useradd -p $(mkpasswd "1234") $crearUsuarios &> /dev/null # creo los usuarios y la contraseña de manera desatendida
+    awk -F: '{print $1}' /etc/passwd | xargs -n 1 chsh -s /bin/bash # cambio la shell de los usuarios
+    mkdir -p /home/$crearUsuarios # creo los home para todos los usuarios
+    cd /srv/sox/TheGreatGateOfKiev
+    touch $crearUsuarios.txt
     grupo=$(id $crearUsuarios | cut -d "=" -f2 | cut -d ")" -f1 | cut -d "(" -f2)
     for i in $grupo; do
 	cortargrupos=$(id $crearUsuarios | cut -d "=" -f4)
@@ -52,21 +56,3 @@ usermod -aG orchestra xylophone
 usermod -aG percussion xylophone
 usermod -aG orchestra conductor
 usermod -aG conductor conductor
-
-concerts=(TheGreatGateOfKiev BlueDanube NewWorldSymphonie TheJazzSuite)
-for crearConciertos in ${concerts[@]}; do
-
-    mkdir -p /srv/sox/$crearConciertos
-    #Creo un fichero para cada directorio
-    if [ $crearConciertos = "TheGreatGateOfKiev" ]; then
-	touch /srv/sox/TheGreatGateOfKiev/TheGreatGateOfKiev.txt
-    elif [ $crearConciertos = "BlueDanube" ]; then
-	touch /srv/sox/BlueDanube/BlueDanube.txt
-    elif [ $crearConciertos = "NewWorldSymphonie" ];  then
-	touch /srv/sox/NewWorldSymphonie/NewWorldSymphonie.txt
-    elif [ $crearConciertos = "TheJazzSuite" ]; then
-	touch /srv/sox/TheJazzSuite/TheJazzSuite.txt
-    fi
-done
-
-exit 0
