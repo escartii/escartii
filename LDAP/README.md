@@ -22,31 +22,31 @@ http://HERE-MY-IP/phpldapadmin/
 1. Ejecutamos este comando ! --> <code>sudo dpkg-reconfigure slapd</code>
 
 ### 1.1
-![](./img/3.png)
+![](./1.png)
 
-### 1.2 
-* Añadimos la contraseña que quedaria tal que <code>dc=ubuntusrvXX,dc=smx2023,dc=net</code>
-![](../Downloads/contrase%C3%B1a.png)
+### 1.2
+![](./2.png)
 
 ### 1.3
-![](./img/5.png)
+![](./3.png)
 
 ### 1.4
-![](./img/6.png)
+* Añadimos la contraseña que quedaria tal que <code>dc=ubuntusrvXX,dc=smx2023,dc=net</code>
+![](./contrase%C3%B1a.png)
 
 ## Configurando phpLDAPadmin
 
 1. Para acceder al servidor debemos introducir los siguientes datos: "cn=admin,dc=ubuntusrvXX,dc=smx2023,dc=net" la contraseña será la que hemos introducido "smx2023"
 
-![](../Downloads/Imagen%2020-1-23%20a%20las%2012.51.jpg)
+![](./Imagen%2020-1-23%20a%20las%2012.51.jpeg)
 
 2. Y entramos para poder crear nuestros objetos
-![](../Downloads/Imagen%2020-1-23%20a%20las%2012.55.jpg)
+![](./Imagen%2020-1-23%20a%20las%2012.55.jpg)
 
 
 ## CREANDO OBJETOS EN LDAP
 
-* Tenemos que seguir esta estructura:
+* Tenemos que hacer esta estructura: 
 ~~~
 dc=ubuntusrvXX,dc=smx2023,dc=net
     cn=admin
@@ -55,9 +55,9 @@ dc=ubuntusrvXX,dc=smx2023,dc=net
 ou=tropas
 ~~~
 
-* Y quedaria finalmente así
+* Resultado: 
 
-![](../Downloads/hijosLDAP.png)
+![](./hijosLDAP.png)
 
 ## INSTALACION DE LDAP-UTILS
 
