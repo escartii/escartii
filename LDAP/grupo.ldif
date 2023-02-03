@@ -1,0 +1,10 @@
+dn: cn=grupo,ou=Group,dc=example,dc=com
+objectClass: top
+objectClass: posixGroup
+gidNumber: 2000
+cn: pruebagrupo
+
+Lanzamos el fichero
+
+ldapadd -x -D «cn=admin,dc=example,dc=com» -W -f grupos.ldif
+

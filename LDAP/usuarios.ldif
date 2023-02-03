@@ -1,0 +1,21 @@
+dn: uid=usuario,ou=People,dc=example,dc=com
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: person
+cn: pruebausuario
+uid: pruebausuario
+uidNumber: 2000
+gidNumber: 2000
+homeDirectory: /home/users/pruebausuario
+loginShell: /bin/bash
+userPassword: {SSHA}6dVMmOtZ7P0mSR/FN9peprES6P1rV5
+sn: apellido
+mail: pruebausuario@prueba.com
+givenName: pruebausuario
+
+*Para obtener el password ponemos en goku slappass –>user y el resultado lo pegamos en la directiva userPassword.
+
+Lanzamos el fichero
+
+ldapadd -x -D «cn=admin,dc=example,dc=com» -W -f usuarios.ldif
