@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/escartii/script.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Nombre_del_script
