@@ -27,7 +27,7 @@
 [![ShellScript Badge](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
 
 ## Mi lugar de trabajo 
-<img src="IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
+<img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
 
 
 ## Idiomas que sé y que estoy aprendiendo
