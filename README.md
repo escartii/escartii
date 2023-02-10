@@ -10,7 +10,7 @@
 - Mis redes sociales: 
 <p align="center">
     <a href="https://twitter.com/escartii" target="_blank">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/escartii?color=blue&logo=twitter&style=for-the-badge">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/escarti_smx?color=blue&logo=twitter&style=for-the-badge">
 	<alt="Twitter Badge" />
     </a>
 
