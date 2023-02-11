@@ -29,7 +29,6 @@
 ## Mi lugar de trabajo 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
 
-
 ## Idiomas que sé y que estoy aprendiendo
 
 <img src="./img-readme/español.png" alt="idioma" width="75"/> <img src="./img-readme/ingles.png" alt="idioma" width="75"/> <img src="./img-readme/fra.png" alt="idioma" width="75"/>
