@@ -32,15 +32,12 @@
 
 ## Idiomas que sé y que estoy aprendiendo
 
-<img src="./img-readme/español.png" alt="idioma" width="75"/> <img src="./img-readme/ingles.png" alt="idioma" width="75"/> <img src="fra.png" alt="idioma" width="75"/>
+<img src="./img-readme/español.png" alt="idioma" width="75"/> <img src="./img-readme/ingles.png" alt="idioma" width="75"/> <img src="./img-readme/fra.png" alt="idioma" width="75"/>
 
 ## Bebidas favoritas
 
 <img src="./img-readme/agua.jpg" alt="imagen-escritorio" width="75"/> <img src="./img-readme/cafe.png" alt="imagen-escritorio" width="75"/>
 
-## Deporte favorito: Padel
-
-<img src="./img-readme/counter_viper.png" alt="imagen-escritorio" width="150"/>
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
