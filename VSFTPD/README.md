@@ -13,5 +13,9 @@ En el cliente instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
 ~~~
+Para acceder al servidor mediante conexión anonima hacemos lo siguiente en el fichero vsftd.conf:
+~~~
+anonymous_enable=YES
+~~~
 
 
