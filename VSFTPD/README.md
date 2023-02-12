@@ -1,7 +1,7 @@
 # FTP CONFIGURACION
 
 
-Empezaremos acctualizondo la maquina
+Empezaremos actualizando la maquina
 ~~~
 sudo apt update && sudo apt full-upgrade --yes
 ~~~
@@ -13,9 +13,9 @@ En el cliente instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
 ~~~
-Para acceder al servidor mediante conexión anonima hacemos lo siguiente en el fichero vsftd.conf:
+Permitir usuarios locales (vsftpd.conf) :
 ~~~
-anonymous_enable=YES
+local_enable=YES
 ~~~
 
 
