@@ -9,6 +9,10 @@ A continuacion instalaremos <code>vsftpd</code> en el servidor
 ~~~
 sudo apt install vsftpd
 ~~~
+Ahora creamos el certificado
+~~~
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd-selfsigned.key -out /etc/ssl/certs/vsftpd-selfsigned.crt
+~~~
 En el cliente instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
@@ -16,6 +20,11 @@ sudo apt update install filezilla
 Permitir usuarios locales (vsftpd.conf) :
 ~~~
 local_enable=YES
+
 ~~~
+wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
+~~~
+
+
 
 
