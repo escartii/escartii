@@ -36,6 +36,7 @@ wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
 Creamos el fichero
 ~~~
 sudo nano /etc/vsftpd.chroot_list
+~~~
 
 
 
