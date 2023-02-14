@@ -19,11 +19,7 @@ sudo apt update install filezilla
 ~~~
 Permitir usuarios locales (vsftpd.conf) :
 ~~~
-local_enable=YES
 
-~~~
-wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
-~~~
 
 
 
