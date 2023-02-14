@@ -24,6 +24,10 @@ Reiniciamos el servidor
 ~~~
 sudo systemctl restart vsftpd.service
 ~~~
+Descargamos el fichero que funciona:
+~~~
+wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
+~~~
 En el cliente instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
