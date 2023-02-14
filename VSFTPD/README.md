@@ -37,8 +37,9 @@ Creamos el fichero
 ~~~
 sudo nano /etc/vsftpd.chroot_list
 ~~~
-
-
+Copiamos esto dentro del fichero que acabamos de crear:
+~~~
+root:x:0:0:root:/root:/bin/bash
 
 
 
