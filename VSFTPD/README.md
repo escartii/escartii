@@ -35,10 +35,9 @@ wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
 ~~~
 instalaremos <code>Filezilla</code>
 ~~~
-sudo apt update install filezilla
+Creamos el fichero
 ~~~
-
-
-
+sudo nano /etc/vsftpd.chroot_list
+~~~
 
 
