@@ -5,6 +5,11 @@ Empezaremos actualizando la maquina
 ~~~
 sudo apt update && sudo apt full-upgrade --yes
 ~~~
+instalaremos <code>Filezilla</code>
+~~~
+sudo apt update install filezilla
+~~~
+
 A continuacion instalaremos <code>vsftpd</code> en el servidor
 ~~~
 sudo apt install vsftpd
@@ -28,11 +33,9 @@ Descargamos el fichero que funciona:
 ~~~
 wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
 ~~~
-En el cliente instalaremos <code>Filezilla</code>
+instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
-~~~
-Permitir usuarios locales (vsftpd.conf) :
 ~~~
 
 
