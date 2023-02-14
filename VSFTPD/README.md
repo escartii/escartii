@@ -49,5 +49,11 @@ Damos permisos al usuario que hemos creado
 ~~~
 chmod -R 755 /home/$USER
 ~~~
+Aqui creamos el directorio y el index que vamos a enjaular
+~~~
+cd $HOME
+mkdir public_html
+sudo nano index.html
+~~~
 
 
