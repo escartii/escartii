@@ -20,6 +20,10 @@ rsa_cert_file=/etc/ssl/certs/vsftpd-selfsigned.crt
 rsa_private_key=/etc/ssl/private/vsftpd-selfsigned.key
 ssl_enable=YES
 ~~~
+Reiniciamos el servidor
+~~~
+sudo systemctl restart vsftpd.service
+~~~
 En el cliente instalaremos <code>Filezilla</code>
 ~~~
 sudo apt update install filezilla
