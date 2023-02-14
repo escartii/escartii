@@ -41,6 +41,9 @@ Copiamos esto dentro del fichero que acabamos de crear:
 ~~~
 root:x:0:0:root:/root:/bin/bash
 ~~~
-
+Damos permisos al usuario que hemos creado
+~~~
+chmod -R 755 /home/$USER
+~~~
 
 
