@@ -13,9 +13,9 @@ Ahora creamos el certificado
 ~~~
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/vsftpd-selfsigned.key -out /etc/ssl/certs/vsftpd-selfsigned.crt
 ~~~
-~~~
 Ahora entramos al fichero vsftpd.conf y vamos abajo del todo, donde pone rsa
 ponemos el certificado que hemos creado
+~~~
 rsa_cert_file=/etc/ssl/certs/vsftpd-selfsigned.crt
 rsa_private_key=/etc/ssl/private/vsftpd-selfsigned.key
 ssl_enable=YES
