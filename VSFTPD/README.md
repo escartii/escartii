@@ -33,11 +33,11 @@ Descargamos el fichero que funciona:
 ~~~
 wget https://raw.githubusercontent.com/escartii/escartii/main/VSFTPD/vsftpd.conf
 ~~~
-instalaremos <code>Filezilla</code>
-~~~
 Creamos el fichero
 ~~~
 sudo nano /etc/vsftpd.chroot_list
-~~~
+
+
+
 
 
