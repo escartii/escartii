@@ -8,7 +8,7 @@
 </head>
 <body>
 <fieldset>
-
+    <legend> Alvaro Escarti </legend>
     <!-- Desplegable para elegir una opción -->
     <h2> Elige una opción </h2>
     <label for="cars"> Elige un coche: </label>
@@ -19,10 +19,15 @@
         <option value="audi">audi</option>
         <option value="seat">seat</option>
     </select>
+    <br><br>
+     <!-- Elige un color -->
+     <label for="name"> Elige un color: </label>
+     <input type="color" id="color" name="color" />
 </fieldset>
 
 <fieldset>
-    <legend> Por favor, completa estas opciones </legend> <!-- Para escribir dentro de la linea -->
+    <!-- Para escribir dentro de la linea -->
+    <legend> Por favor, completa estas opciones </legend>
     <form>
         <label for="fichero"> Elije un fichero </label>
         <input type="file">
@@ -40,6 +45,25 @@
             <label for="fecha" > Elija una fecha </label>
             <input type="date" id="fecha" name="fecha" />
         </p>
+
+        <!-- Recuadro para que el usuario escriba aqui todo lo que quiera -->
+        <textarea cols="50" rows="7"> Escribe aquí </textarea>
+
+        <!-- Opciones para el usuario elija botones circulares -->
+        <p class="radio2G">
+            <label for="2G"> 2G </label>
+            <input type="radio" id="2G" name="required" value="red2G" />
+        </p>
+        <p class="radio3G">
+            <label for="3G"> 3G </label>
+            <input type="radio" id="3G" name="required" value="red3G" />
+        </p>
+        <p class="radio4G">
+            <label for="4G"> 4G </label>
+            <input type="radio" id="3G" name="required" value="red4G" />
+        </p>
+    
+
 
 </fieldset>
 </body>
