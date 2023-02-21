@@ -5,7 +5,7 @@
 
 <img src="result.gif">
 
-- 300 pulsaciones por minuto ^^
+- 400 RPM :))
 
 - Mis redes sociales: 
 <p align="center">
