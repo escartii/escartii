@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+</head>
+<body>
+<fieldset>
+
+    <!-- Desplegable para elegir una opción -->
+    <h2> Elige una opción </h2>
+    <label for="cars"> Elige un coche: </label>
+    <select id="cars" name="cars">
+        <option value="volvo">volvo</option>
+        <option value="tesla">tesla</option>
+        <option value="mercedes">mercedes</option>
+        <option value="audi">audi</option>
+        <option value="seat">seat</option>
+    </select>
+</fieldset>
+
+<fieldset>
+    <legend> Por favor, completa estas opciones </legend> <!-- Para escribir dentro de la linea -->
+    <form>
+        <label for="fichero"> Elije un fichero </label>
+        <input type="file">
+        <!-- Clase para que actue mas elegante que un br -->
+        <!-- Lo alineo al centro, creo que queda mejor -->
+        <p class="conector" >
+        <select name="conector" id="conector" > 
+            <option value="usb" > USB </option>
+            <option value="Paralelo" > Paralelo </option>
+            <option value="PS2" > PS2 </option>
+        </p>
+        </select>
+
+</fieldset>
+</body>
+</html>
