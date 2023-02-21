@@ -7,7 +7,7 @@ sudo apt update && sudo apt full-upgrade --yes
 ~~~
 instalaremos <code>Filezilla</code>
 ~~~
-sudo apt update install filezilla
+sudo apt install filezilla
 ~~~
 
 A continuacion instalaremos <code>vsftpd</code> en el servidor
