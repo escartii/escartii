@@ -10,7 +10,7 @@ console.log(miString)
 if (true) {
     console.log("Es true")
   }
-  
+
   // Comprobamos si el numero es igual o mayor que 9
   // FALSE 
   let operacion = 5 + 2;
