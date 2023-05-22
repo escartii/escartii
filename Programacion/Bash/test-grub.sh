@@ -29,7 +29,7 @@ fi
 #Checking if the grub have a password
 rc=0
 cat /etc/grub.d/00_header | grep "transistor" || rc=1
-if echo $rc -eq 0 ]; then
+if  [ $rc -eq 0 ]; then
     echo "GRUB HAS PASSWORD"
 else
     echo "*** [ ERROR ] *** : GRUB has not password"
