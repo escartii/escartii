@@ -292,7 +292,7 @@ def sobremesa_es () :
                                                                             print ("  - perifericos")
                                                                             print ("  - windows")
                                                                             print ("  - pantalla")
-                                                                            respuesta = input ("Eligue una: ")
+                                                                            respuesta = input ("Elige una: ")
                                                                         print ("")
                                                                         espanyol1 (respuesta)
                                                                         return respuesta
@@ -742,7 +742,7 @@ def portatil_es () :
                                                                     print ("  - sobremesa")
                                                                     print ("  - windows")
                                                                     print ("  - pantalla")
-                                                                    respuesta = input ("Eligue una: ")
+                                                                    respuesta = input ("Elige una: ")
                                                                 print ("")
                                                                 espanyol1 (respuesta)
                                                                 return respuesta
@@ -809,7 +809,7 @@ def pantalla_es () :
                                     print ("  - perifericos")
                                     print ("  - sobremesa")
                                     print ("  - windows")
-                                    respuesta = input ("Eligue una: ")
+                                    respuesta = input ("Elige una: ")
                                 print ("")
                                 espanyol1 (respuesta)
                                 return respuesta
@@ -903,7 +903,7 @@ def windows_es () :
                                                 print ("  - perifericos")
                                                 print ("  - sobremesa")
                                                 print ("  - pantalla")
-                                                respuesta = input ("Eligue una: ")
+                                                respuesta = input ("Elige una: ")
                                             print ("")
                                             espanyol1 (respuesta)
                                             return respuesta
@@ -939,7 +939,7 @@ def perifericos_es () :
                     print ("  - sobremesa")
                     print ("  - windows")
                     print ("  - pantalla")
-                    respuesta = input ("Eligue una: ")
+                    respuesta = input ("Elige una: ")
                 print ("")
                 espanyol1 (respuesta)
                 return respuesta
@@ -953,7 +953,7 @@ def espanyol ():
         print ("  - sobremesa")
         print ("  - windows")
         print ("  - pantalla")
-        respuesta = input ("Eligue una: ")
+        respuesta = input ("Elige una: ")
     print ("")
     espanyol1 (respuesta)
     return respuesta
@@ -1002,7 +1002,7 @@ def idioma () :
         print ("Idiomas actualmente disponibles:")
         print (" - espanyol")
         print (" - ingles")
-        respuestaidioma = input ("Eligueme uno de los dos: ")
+        respuestaidioma = input ("Elige uno de los dos: ")
 
     if respuestaidioma == "espanyol":
         espanyol ()
