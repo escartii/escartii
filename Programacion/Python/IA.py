@@ -1,4 +1,5 @@
-
+#Hecho por: Javier Puertas, Álvaro Escartí y Marc Burguera
+#Alumnos de 1ºSMX
 def repetirespañol ():
     respuesta=0
     while respuesta != "si" and respuesta != "no":
