@@ -1,8 +1,5 @@
-
-
-- Álvaro Esᴄᴀʀᴛɪ 
-- 23 años :)
-- 400 RPM :))
+<h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
+<h3 align="center">A passionate frontend developer from Spain.</h3>
 
 
 ## Pc Specs:
@@ -22,7 +19,7 @@
 [![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 
 
 ### IDE'S favoritos:
