@@ -1,25 +1,16 @@
 
 
-- Esᴄᴀʀᴛɪ (桜翁） 
-- 22 años :)
+- Álvaro Esᴄᴀʀᴛɪ 
+- 23 años :)
 
 <img src="result.gif">
 
 - 400 RPM :))
 
-- Mis redes sociales: 
-<p align="center">
-    <a href="https://twitter.com/escarti33" target="_blank">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/escarti_smx?color=blue&logo=twitter&style=for-the-badge">
-	<alt="Twitter Badge" />
-    </a>
-
-</p>
-
 
 ## Pc Specs:
 
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_200-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
@@ -34,8 +25,8 @@
 
 [![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css)
-[![PoweShell Badge](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
+[![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 [![ShellScript Badge](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
 
 ## Mi lugar de trabajo 
