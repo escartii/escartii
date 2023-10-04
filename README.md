@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
 
-<div style="text-align: center;">
+<div style="justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green">
 </div>
 
