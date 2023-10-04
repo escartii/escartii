@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
-</p>
 
 ## Pc Specs:
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
@@ -29,6 +23,13 @@
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
+</p>
 
 ## My work's space 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
