@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username={escartii}&theme=blue-green)
+
 ## Pc Specs:
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
