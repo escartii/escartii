@@ -30,10 +30,6 @@
 ## My work's space 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
 
-## Languages ​​I'm learning
-
-<img src="./img-readme/español.png" alt="idioma" width="75"/> <img src="./img-readme/ingles.png" alt="idioma" width="75"/> <img src="./img-readme/fra.png" alt="idioma" width="75"/>
-
 
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
