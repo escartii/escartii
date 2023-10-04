@@ -17,6 +17,10 @@
 </p>
 
 
+## Pc Specs:
+
+[![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)
+
 ### Lenguajes que estoy aprendiendo: 
 
 
