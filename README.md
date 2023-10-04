@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
+<br><br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
