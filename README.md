@@ -2,9 +2,6 @@
 
 - Álvaro Esᴄᴀʀᴛɪ 
 - 23 años :)
-
-<img src="result.gif">
-
 - 400 RPM :))
 
 
@@ -22,12 +19,16 @@
 
 ### Lenguajes que estoy aprendiendo: 
 
-
 [![Python Badge](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.w3schools.com/python)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 [![ShellScript Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
+
+### IDE'S favoritos: 
+![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
+![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 ## Mi lugar de trabajo 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
