@@ -19,7 +19,10 @@
 
 ## Pc Specs:
 
-[![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2012-999999?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_200-999999?style=for-the-badge&logo=apple&logoColor=white)
+
+![NVIDIA](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Lenguajes que estoy aprendiendo: 
 
