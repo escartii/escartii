@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
+</p>
 
 ## Pc Specs:
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
