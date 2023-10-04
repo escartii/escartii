@@ -27,6 +27,7 @@
 ![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
+<h3 align="center">Lenguages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&theme=blue-green"/>
 </p>
