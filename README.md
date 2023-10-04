@@ -21,8 +21,13 @@
 
 ![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_200-999999?style=for-the-badge&logo=apple&logoColor=white)
 
-![NVIDIA](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
+![Intel](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+## Sistemas Operativos :
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Lenguajes que estoy aprendiendo: 
 
