@@ -10,7 +10,7 @@ if [ -d $ruta ]; then
     cd $ruta
     read -p "Introduce un fichero: " fichero
     if [ -a $fichero ]; then
-      [ -w $fichero ] && W="Tiene permisos de Escritura" || W="No tiene permisos de Escritura"
+    [ -w $fichero ] && W="Tiene permisos de Escritura" || W="No tiene permisos de Escritura"
 	[ -x $fichero ] && X="Tiene permisos de Ejecución" || X="No tiene permisos de ejecucion" 
 	[ -r $fichero ] && R="Tiene permisos de Lectura" || R="No tiene permisos de lectura"
 

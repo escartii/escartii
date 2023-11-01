@@ -13,13 +13,11 @@ iplocal=$(hostname -I | cut -d "." -f4)
 cat MOCK_DATA.csv | tail -n +2 | while read lines; do
 
     username=$(echo $lines | cut -d "," -f8)
-    ip=$(echo $lines | cut -d "," -f5 | cut -d "." -f4) 
-    
+    ip=$(echo $lines | cut -d "," -f5 | cut -d "." -f4)
     #Puede parecer algo obvio pero ponemos -eq por que las ips son numeros :)
     # soy idiota y habia puesto "="
-    
-    if [ $ip -eq $iplocal ]; then 
-        #echo $username 
+    if [ $ip -eq $iplocal ]; then
+        #echo $username
         echo " username: "$username ": tiene la misma ip :" $ip
     fi
 
