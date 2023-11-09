@@ -8,9 +8,11 @@
 </p>
 
 ## Sistemas operativos que utilizo :
+<p align="center>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch Linux" title="Arch Linux"/></code>
+</p>
 
 ### Tecnologías que estoy aprendiendo : 
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
