@@ -13,7 +13,7 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Operating systems :
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,macOS,Windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,macos,windows)](https://skillicons.dev)
 
 ### Languages ​​I'm learning: 
 [![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,py)](https://skillicons.dev)
