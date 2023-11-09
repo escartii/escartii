@@ -13,9 +13,7 @@
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Operating systems :
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,macOS,Windows)](https://skillicons.dev)
 
 ### Languages ​​I'm learning: 
 [![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,py)](https://skillicons.dev)
