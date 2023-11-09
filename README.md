@@ -1,4 +1,11 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="150" height="150" />
+<img2 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="150" height="150" />
+ <style>
+        img2 {
+            float: left;  /* Alinea la imagen a la izquierda */
+            margin-right: 10px;  /* Añade un margen a la derecha para separar la imagen del texto */
+        }
+    </style>
+    <title>Imagen a la Izquierda</title>
 <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
 <h3 align="center">A passionate frontend developer from Spain.</h3>
 
