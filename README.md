@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=radical"/>
 </p>
 
 ## Pc Specs:
