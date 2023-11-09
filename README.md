@@ -18,7 +18,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Languages ​​I'm learning: 
-[![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,java,html,css,py)](https://skillicons.dev)
 
 ### Favorite IDE'S:
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
