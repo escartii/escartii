@@ -45,7 +45,7 @@
 
 <h3 align="center">Lenguages</h3>
 <p align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escartiilayout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=escartii&layout=compact)
 
 ## My work's space 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
