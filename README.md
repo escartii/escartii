@@ -35,7 +35,7 @@
 
 ## My work's space 
 <img src="./img-readme/IMG_9945.jpg" alt="imagen-escritorio" width="500"/>
-<img src="./miescritorio.png" width="500"/>
+<img src="./img-readme/miescritorio.png" width="500"/>
 <!--
 **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
