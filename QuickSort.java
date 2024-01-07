@@ -1,21 +1,6 @@
 
 public class QuickSort {
         
-        private static int vec[]={20,12,28,24,8,4,16};
-        
-        public static void main(String[] args) {
-                System.out.println("Vector original");
-                imprimirVector(vec);
-                ordenacionRapida(vec);
-                System.out.println("\nVector ordenado");
-                imprimirVector(vec);
-        }
-
-        public static void ordenacionRapida(int vec[]){
-                final int N=vec.length;
-                quickSort(vec, 0, N-1);
-        }
-        
         public static void quickSort(int vec[], int inicio, int fin){
                 if(inicio>=fin) return;
                 int pivote=vec[inicio];
