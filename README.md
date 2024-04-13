@@ -8,6 +8,14 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
 </h1>
 
+<h2 align="center"> 💻 Habilidades 💻 </h2>
+<br/>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,python,github,javascript,html,vscode "/><br>
+    </a>
+</p>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 </div>
