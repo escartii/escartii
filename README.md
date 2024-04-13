@@ -9,8 +9,6 @@
 
  <br> 
 
- <div class="tenor-gif-embed" data-postid="15301836" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/ciel-phantomhive-black-butler-anime-eye-gif-15301836">Ciel Phantomhive Black Butler GIF</a>from <a href="https://tenor.com/search/ciel+phantomhive-gifs">Ciel Phantomhive GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
  ## Sistemas operativos que utilizo :
 
  <code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/></code>
