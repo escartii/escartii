@@ -19,6 +19,10 @@
  </p>
 
  <br> 
+<br> 
+  <p align="center">
+  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-5/490589814635233281.png" />
+  <br>
 
  <!--
  **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
