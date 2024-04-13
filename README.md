@@ -10,8 +10,6 @@
 
  <br> 
 
- ![escartii](https://tenor.com/es/view/sebastian-michaelis-sebastian-kuroshitsuji-blue-eye-blue-gif-23094585)
-
  <!--
  **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  Here are some ideas to get you started:
