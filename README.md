@@ -1,7 +1,12 @@
+<!--
 <img2 src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="150" height="150" />
  <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
  <h3 align="center">A passionate frontend developer from Spain.</h3>
+ -->
 
+<h1 align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
+</h1>
 ![Snake animation](https://github.com/escartii/escartii/blob/output/github-contribution-grid-snake-dark.svg)
  <br>
  <p align="center">
