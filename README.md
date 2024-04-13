@@ -2,7 +2,7 @@
  <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
  <h3 align="center">A passionate frontend developer from Spain.</h3>
 
-![Snake animation](https://raw.githubusercontent.com/{escartii}/{escartii}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/escartii/escartii/blob/output/github-contribution-grid-snake-dark.svg)
  <br>
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=radical"/>
