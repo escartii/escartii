@@ -21,7 +21,7 @@
  <br> 
 <br> 
   <p align="center">
-  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/490589814635233281.png" />
+  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
 
  <!--
