@@ -7,6 +7,7 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
 </h1>
+
 ![Snake animation](https://github.com/escartii/escartii/blob/output/github-contribution-grid-snake-dark.svg)
  <br>
  <p align="center">
