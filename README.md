@@ -35,17 +35,8 @@
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 22 August 2024 - To: 22 August 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![CursoJS](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=CursoJS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/CursoJS)
+[![Portfolios](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/Portfolio)
 
 
 
