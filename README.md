@@ -4,9 +4,6 @@
  <h3 align="center">A passionate frontend developer from Spain.</h3>
  -->
 
-
-[![Alvaro Escarti](https://github-readme-stats.vercel.app/api?username=escartii)](https://github.com/escartii/github-readme-stats)
-
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
 </h1>
@@ -37,6 +34,9 @@
   <p align="center">
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?escartii=ffflabs)](https://github.com/escartii/github-readme-stats)
+
 
 
  <!--
