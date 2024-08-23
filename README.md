@@ -35,7 +35,7 @@
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=escartii&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/e2a2fbed-5472-4c03-a50d-242ce53b70f4/project/f0b91240-63c9-4111-891c-822cb6cbae15.svg)](https://wakatime.com/badge/user/e2a2fbed-5472-4c03-a50d-242ce53b70f4/project/f0b91240-63c9-4111-891c-822cb6cbae15)
 
 
 
