@@ -3,6 +3,7 @@
  <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
  <h3 align="center">A passionate frontend developer from Spain.</h3>
  -->
+![Estrellas](https://i.imgur.com/9I6NRUm.gif)
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
@@ -34,6 +35,8 @@
   <p align="center">
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
+
+  ![Estrellas](https://i.imgur.com/9I6NRUm.gif)
 
  <!--
  **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
