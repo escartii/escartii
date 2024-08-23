@@ -37,7 +37,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 From: 22 August 2024 - To: 22 August 2024
 
 Total Time: 0 secs
