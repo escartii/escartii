@@ -4,6 +4,9 @@
  <h3 align="center">A passionate frontend developer from Spain.</h3>
  -->
 
+
+[![Alvaro Escarti](https://github-readme-stats.vercel.app/api?username=escartii)](https://github.com/escartii/github-readme-stats)
+
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
 </h1>
@@ -34,8 +37,6 @@
   <p align="center">
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
-
-  [![InmoMarket](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=CursoJSs&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/CursoJS)
 
 
  <!--
