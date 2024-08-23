@@ -35,7 +35,7 @@
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
 
-[![Harlok's escartii stats](https://github-readme-stats.vercel.app/api/wakatime?escartii=ffflabs)](https://github.com/escartii/github-readme-stats)
+[![Alvaro Escarti](https://github-readme-stats.vercel.app/api/wakatime?username=escartii)](https://github.com/escartii)
 
 
 
