@@ -35,6 +35,8 @@
   <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/490589814635233281.png" />
   <br>
 
+  [![InmoMarket](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=Comparador-Gasolineras&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/Comparador-Gasolineras)
+
 
  <!--
  **escartii/escartii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
