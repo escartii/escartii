@@ -41,7 +41,10 @@
 [![CursoJS](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=CursoJS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/CursoJS)
 [![Portfolios](https://github-readme-stats.vercel.app/api/pin/?username=escartii&repo=Portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/escartii/Portfolio)
 
-![](https://komarev.com/ghpvc/?username=escartii&color=blueviolet)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=escartii&color=blueviolet" alt="GitHub Profile Views"/>
+</p>
+
 
 
 
