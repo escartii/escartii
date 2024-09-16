@@ -3,7 +3,7 @@
  <h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
  <h3 align="center">A passionate frontend developer from Spain.</h3>
  -->
-![Fondo estrellado](https://github.com/escartii/escartii/raw/main/fondo-estrellado.png)
+![Fondo estrellado](https://github.com/escartii/escartii/raw/main/header1.png)
 
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rightous&size=35&center=true&width=500&height=70&duration=4000&lines=Hi+There!+;I'm+Álvaro+Escartí+" alt="Typing SVG" /></a>
